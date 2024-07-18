@@ -6,5 +6,5 @@ The Indian Population Analysis Power BI Dashboard is a comprehensive visualizati
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mahidubey/Population-analysis/blob/main/Screenshot_20240612_022739.png)
+![App Screenshot](https://github.com/mahidubey/Population-analysis/blob/main/Image.png?raw=true)
 
